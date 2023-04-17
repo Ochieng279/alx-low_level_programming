@@ -48,7 +48,7 @@ dog_t *new_dog(char *name, float age, char *owner)
 
 /**
  * _strlen - function that returns the length of a string
- * @s: string to check
+ * @c: string to check
  * Return: the length of the string
  */
 int _strlen(char *c)
